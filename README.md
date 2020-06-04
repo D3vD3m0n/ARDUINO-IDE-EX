@@ -2,7 +2,7 @@
 # ARDUINO-IDE-EX
 Extension Projekt for ARDUINO IDE (1.8.12) |Modding|Theming|Styling|
 
-Copy Content of ARDUINO 1.8.12 in youor installation folder.
+Copy Content of ARDUINO 1.8.12 in your installation folder.
 <img src="./images/screen.png" alt=""></img>
  <table>
   <tr>
